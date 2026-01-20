@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+Hi! Im Jv Bialen, currently a 3rd year IT student at Quezon City University. I love building projects that are made for the public use <br>
 
 
 # 💻 Tech Stack:
